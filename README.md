@@ -85,5 +85,9 @@ extrato_conta_1.pdf
 ## 🎯 Objetivo
 
 Evoluir constantemente em desenvolvimento back-end Java, aplicando boas práticas e aproximando projetos acadêmicos de cenários reais do mercado.
-## 📂 Estrutura do Projeto
 
+---
+
+## 👨‍💻 Autor
+
+João Victor
