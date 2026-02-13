@@ -90,4 +90,7 @@ Evoluir constantemente em desenvolvimento back-end Java, aplicando boas prática
 
 ## 👨‍💻 Autor
 
-João Victor
+**João Victor**  
+Foco em dados, operações e eficiência operacional, conectando tecnologia à tomada de decisão.
+
+🔗 LinkedIn: https://www.linkedin.com/in/joao-victor-macedo-neves/
